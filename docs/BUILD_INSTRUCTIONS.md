@@ -9,3 +9,5 @@ To build and contribute you should be **On Linux** as it is preferred.
 **Method #1**
 
 To build using method #1 (a.k.a using a script)
+
+### UNFINISHED!!
